@@ -31,7 +31,7 @@
  */
 
 /* First, let's add the transition effect. */
-* {
+{
   transition: all .3s;
 }
 /* White background is so boring, thus make some different. */
@@ -92,7 +92,7 @@ html{
           `
 /* Seems something strange in my resume.
  * Yup, my resume is in Markdown format. I need to make my resume more friendly to HR.
- * Just use the open soucre tool to convert my resume to HTML.
+ * Here use the open soucre tool to convert my resume to HTML.
  */
 `
           ,
