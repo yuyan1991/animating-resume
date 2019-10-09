@@ -23,21 +23,22 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
-*/
+ * Inspired by http://strml.net/
+ *
+ * Hi, I'm Ziqi.
+ *
+ * I am now presenting my resume to you.
+ */
 
-/* 首先给所有元素加上过渡效果 */
+/* First, let's add the transition effect. */
 * {
   transition: all .3s;
 }
-/* 白色背景太单调了，我们来点背景 */
+/* White background is so boring, thus make some different. */
 html {
   color: rgb(222,222,222); background: rgb(0,43,54);
 }
-/* 文字离边框太近了 */
+/* Font is too close border. */
 .styleEditor {
   padding: .5em;
   border: 1px solid;

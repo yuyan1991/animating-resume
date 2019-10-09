@@ -23,23 +23,23 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘
-* 你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
-*/
+ * Inspired by http://strml.net/
+ *
+ * Hi, I'm Ziqi.
+ *
+ * I am now presenting my resume to you.
+ */
 
-/* 首先给所有元素加上过渡效果 */
+/* First, let's add the transition effect. */
 * {
   transition: all .3s;
 }
-/* 白色背景太单调了，我们来点背景 */
+/* White background is so boring, thus make some different. */
 html {
   color: rgb(222,222,222);
   background: rgb(0,43,54);
 }
-/* 文字离边框太近了 */
+/* Font is too close border... */
 .styleEditor {
   padding: .5em;
   border: 1px solid;
@@ -48,11 +48,11 @@ html {
   margin: 2.5vh 5vw;
   height: 90vh;
 }
-/* 太高了 */
+/* Need to adjust height. */
 .styleEditor {
   height: 45vh;
 }
-/* 代码高亮 */
+/* Highlight the code */
 .token.selector{
   color: rgb(133,153,0);
 }
@@ -66,7 +66,7 @@ html {
   color: rgb(42,161,152);
 }
 
-/* 加点 3D 效果呗 */
+/* Add some 3D effect */
 html{
   perspective: 1000px;
 }
@@ -75,7 +75,7 @@ html{
   transform: rotateX(-10deg) translateZ(-50px) ;
 }
 
-/* 接下来我给自己准备一个编辑器 */
+/* Next, create an editor. */
 .resumeEditor{
   position: fixed;
   top: 50%; left: 0;
@@ -85,19 +85,19 @@ html{
   background: white; color: #222;
   overflow: auto;
 }
-/* 好了，我开始写简历了 */
+/* Okay, it's time to write my resume. */
 
 
 `,
           `
-/* 这个简历好像差点什么
- * 对了，这是 Markdown 格式的，我需要变成对 HR 更友好的格式
- * 简单，用开源工具翻译成 HTML 就行了
+/* Seems something strange in my resume.
+ * Yup, my resume is in Markdown format. I need to make my resume more friendly to HR.
+ * Just use the open soucre tool to convert my resume to HTML.
  */
 `
           ,
           `
-/* 再对 HTML 加点样式 */
+/* add some styles for HTML */
 .resumeEditor{
   padding: 2em;
 }
@@ -128,36 +128,51 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `Ziqi Huang
 ----
 
-资深前端工程师，资深前端讲师
-现在在 [饥人谷](http://jirengu.com) 教前端课程。
+Software Developer
 
-技能
+Email: [yuyan1991@gmail.com(preferred)](mailto:yuyan1991@gmail.com)
+Telephone: +852-66041524
+
+Technology Stack
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* Git
+* Java
+* Spring
+* RDBMS
+* MongoDB
+* Redis
+* Docker
+* javascript
+* HTML
+* CSS
+* React
+* Python
+* C++
 
-工作经历
+Working Experience
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. [Infinite Financial Solutions Ltd](https://www.ifshk.com) (August 2015 - Now)
 
-链接
+Education
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+[The Chinese University of Hong Kong](http://www.cuhk.edu.hk) 2014.09 - 2015.07 (Hong Kong)
 
-> 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+* Master Degree in Computer Science & Engineering
+
+[Sun Yat-sen University](http://www.sysu.edu.cn) 2010.09-2014.06 (Guangzhou, China)
+
+* Bachelor Degree in Computer Science
+
+Link
+----
+
+* [GitHub](https://github.com/yuyan1991)
 
 `
       }
