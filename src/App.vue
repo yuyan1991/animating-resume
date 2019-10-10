@@ -134,7 +134,7 @@ Technology Stack
 * MongoDB
 * Redis
 * Docker
-* javascript
+* JavaScript
 * HTML
 * CSS
 * React
