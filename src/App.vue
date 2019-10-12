@@ -150,8 +150,8 @@ Working Experience
 *Analysis Programmer*
 
 1. Develop and maintain FinTech system for [Shanghai Commercial Bank](https://www.shacombank.com.hk/)
-2. Sourced, set up, and deployed FinTech system organizing and tracking support requests.
-3. Collaborated with developers, designers, UX designers and project managers in an agile team building responsive, cross-browser compatible and scalable web apps.
+2. Code, environment setup and deploy for FinTech system.
+3. Collaborate with developers, designers, UX designers and project managers in an agile team building responsive, cross-browser compatible and scalable web apps.
 
 
 *Projects*
