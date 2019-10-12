@@ -143,6 +143,7 @@ Technology Stack
 * Java
 * Spring
 * RDBMS
+* RESTful API
 * MongoDB
 * Redis
 * Docker
@@ -160,8 +161,11 @@ Working Experience
 
 *Analysis Programmer*
 
-Job Duty: Develop and maintain FinTech system for [Shanghai Commercial Bank](https://www.shacombank.com.hk/)
+1. Develop and maintain FinTech system for [Shanghai Commercial Bank](https://www.shacombank.com.hk/)
+2. Sourced, set up, and deployed FinTech system organizing and tracking support requests.
+3. Collaborated with developers, designers, UX designers and project managers in an agile team building responsive, cross-browser compatible and scalable web apps.
 
+Projects:
 * [Faster Payment System](https://fps.hkicl.com.hk/eng/fps/index.php)(i.e FPS, 轉數快)
 * Wealth Management System
 * Insurance System
