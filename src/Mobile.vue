@@ -39,7 +39,7 @@ html {
   color: rgb(222,222,222);
   background: rgb(0,43,54);
 }
-/* Font is too close border... */
+/* Text is too close border. */
 .styleEditor {
   padding: .5em;
   border: 1px solid;
