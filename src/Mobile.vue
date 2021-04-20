@@ -162,13 +162,13 @@ Working Experience
 *Senior Analyst Programmer*
 1. Collaborate with the CCBA user to confirm the project requirement
 2. Develop and maintain P2-Gateway, STM and P2-OTP Project:
-* Frontend: design UI for P2-OTP and STM
-* Backend: add adapters in P2-Gateway and explore the RESTful API to ECPWEB project and STM project
+    * Frontend: design UI for P2-OTP and STM
+    * Backend: add adapters in P2-Gateway and explore the RESTful API to ECPWEB project and STM project
 3. Assist CCBA users to perform UAT and PROD for ECPWEB project and STM project
 4. Collaborate with DBA team, TRM team, UNIX team and Change Control Team to build and deploy system for UAT and PROD
 5. Develop IPO Revamp Project:
-* Frontend: design UI for IPO Pages with CCB’s P2 framework
-* Backend: construct the IPO Revamp project with CCB’s P8 framework and explore the API to ECPWEB project
+    * Frontend: design UI for IPO Pages with CCB’s P2 framework
+    * Backend: construct the IPO Revamp project with CCB’s P8 framework and explore the API to ECPWEB project
 
 *Projects*
 
